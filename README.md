@@ -4,7 +4,7 @@ This project aims to create a user interface application designed to function as
 
 ## Objective
 
-The main objective of this project is to develop an application with a user-friendly interface that can effectively carry out operations on polynomials. Through this application, users will be able to perform tasks such as addition, subtraction, multiplication, and division of polynomial expressions. The project seeks to provide a convenient tool for individuals working with polynomials in fields such as mathematics, engineering, and science.
+The main objective of this project is to develop an application with a user-friendly interface that can effectively carry out operations on polynomials. Through this application, users will be able to perform tasks such as addition, subtraction, multiplication, and division of polynomial expressions. 
 
 ## Use cases
 The application is opened:
